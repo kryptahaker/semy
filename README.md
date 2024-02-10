@@ -1,0 +1,2 @@
+# semy
+semy discord bot
